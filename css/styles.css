@@ -1,12 +1,41 @@
 body{
-    background: #2c8d51;
-    font-family: 'Courier New', Courier, monospace;
-    text-align: center;
+    background: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    
     margin: 0;
     padding: 0;
 }
 
-body h1{
-    margin: 10px;
-    border: 1px solid black;
+#principal{
+    width: 100%;
+    
+}
+
+#container{
+    margin: 0px auto;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    width: 70%;
+    padding: 50px;
+    
+    box-shadow: 0px 0px 5px rgb(46, 46, 46);
+
+}
+
+#container h1{
+    font-size: 30px;
+    
+    color: rgb(41, 40, 40);
+
+
+
+}
+
+#container p{
+    
+    font-size: 20px;
+    color:rgb(59, 58, 58);
+
 }
