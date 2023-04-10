@@ -1,0 +1,12 @@
+body{
+    background: #2c8d51;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+body h1{
+    margin: 10px;
+    border: 1px solid black;
+}
