@@ -4,6 +4,7 @@ body{
     
     margin: 0;
     padding: 0;
+    background-color: black;
 }
 
 #principal{
@@ -20,14 +21,59 @@ body{
     width: 70%;
     padding: 50px;
     
-    box-shadow: 0px 0px 5px rgb(46, 46, 46);
+    box-shadow: 0px 0px 5px rgb(163, 163, 163);
 
+}
+
+#container header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+header #list{
+    width: 65%;
+    justify-self: right;
+    box-shadow: 0px 0px 5px wheat;
+    display: flex;
+    list-style: none;
+    
+    
+}
+
+header #list .element{
+    border: 1px solid black;
+    flex-basis: 35%;
+    line-height: 74px;
+    text-align: center;
+    border-right: 1px solid white;
+    
+}
+
+header #list .element a{
+    text-decoration: none;
+    color: gray;
+    transition: all 350ms;
+    display: block;
+    width: 70%;
+    margin: 0px auto
+}
+
+header #list .element a:hover{
+    color: white;
+}
+header #random{
+    
+    width: 20%;
+    box-shadow: 0px 0px 5px wheat;
+    text-align: center;
 }
 
 #container h1{
     font-size: 30px;
     
-    color: rgb(41, 40, 40);
+    color: rgb(163, 163, 163);
 
 
 
@@ -36,6 +82,6 @@ body{
 #container p{
     
     font-size: 20px;
-    color:rgb(59, 58, 58);
+    color:rgb(105, 105, 105);
 
 }
