@@ -85,3 +85,14 @@ header #random{
     color:rgb(105, 105, 105);
 
 }
+
+/*Pie*/
+
+#footer{
+    background-color:rgb(40, 76, 109);
+    color: wheat;
+    padding: 0.2em;
+    margin-top: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 6px rgb(7, 26, 43);
+}
