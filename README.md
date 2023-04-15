@@ -12,5 +12,5 @@ Ejemplo de un blog increíble hecho con mucho amor para  [Curso Git y Github](ht
 - Trucos muy locos del profesor
 - Las múltiples personalidades de Freddy
 - Creado por el increíble Team Platzi
-
+- Incluye ejemplos en Windows, Linux y Mac
 Como amable recordatorio: **Este README es un CHISTE** para el [Curso Git y Github](http://https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "Curso Git y Github"). Se recomienda no tomarse en serio este **README**
